@@ -19,6 +19,8 @@ Dans ce lab, vous allez :
 User → App Web → /metrics → Prometheus → Grafana
 ```
 
+![Texte alternatif](./prometheus.001-1.png)
+
 ---
 
 ## Structure du projet
